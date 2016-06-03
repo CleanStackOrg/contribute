@@ -1,9 +1,7 @@
 Project - Dev Wiki
 =============
 
-This Wiki is about learning to contribute to MRO Project. MRO is a web-based video game providing ways to implements role playing games (dungeon and dragons like) and playing it over the internet (web, mobile or desktop). It's targeting at Game Masters, Players and Casual Players.
-
-
+This Wiki is about learning to contribute to projects.
 
 ## Contents
 
@@ -14,35 +12,32 @@ This Wiki is about learning to contribute to MRO Project. MRO is a web-based vid
 * [Learn](#learn)
 
 
-
 ## Reminder
 
 Tools
-* Backlog (Trello) at https://trello.com/b/vMsZjqS1/
-* Source (GitHub) at https://github.com/MRO-Org/
+* Source (GitHub) at https://github.com/CleanStackOrg/
 * Host (Heroku) at https://dashboard.heroku.com/apps
 
 Projects
 * Game
-    * Source at https://github.com/MRO-Org/mro
+    * Backlog at https://trello.com/b/KPzUQoCV/project-game
+    * Source at https://github.com/CleanStackOrg/project-ci
     * Run at https://project-myrpgonline.herokuapp.com/play
-* WebSite 
-    * Source at https://github.com/MRO-Org/mro-website
-    * Run at https://project-myrpgonline.herokuapp.com/
-
-
+* CI 
+    * Backlog at https://trello.com/b/9GjZ3SMI/project-ci
+    * Source at https://github.com/CleanStackOrg/project-ci
 
 ## Contribution
 
 How to contribute ?
 
 You can contribute by :
-* testing the project at https://project-myrpgonline.herokuapp.com/
+* testing the project
 * participating to the project code base. First read the Getting Started page. After that, you can play with the project, then push some code.
 
 
 
-## Getting started
+## Getting started with UI development
 
 * Install (if you don't have them):
     * [GitHub](https://desktop.github.com): download and install the latest
