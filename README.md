@@ -22,7 +22,7 @@ Projects
 * Game
     * Backlog at https://trello.com/b/KPzUQoCV/project-game
     * Source at https://github.com/CleanStackOrg/project-ci
-    * Run at https://project-cleanstack-game.herokuapp.com
+    * Run at https://cleanstack-project-game.herokuapp.com
 * CI 
     * Backlog at https://trello.com/b/9GjZ3SMI/project-ci
     * Source at https://github.com/CleanStackOrg/project-ci
